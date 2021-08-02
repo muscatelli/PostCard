@@ -1,0 +1,68 @@
+body{
+    background: black;
+}
+#master{
+    border-style: solid;
+    border-color: black;
+    background-color:white;
+    width: 600px;
+    height:400px; 
+    font-family:fantasy;  
+}
+
+#cabezera {
+    padding: 5px;
+}
+
+#titulo{
+    margin-left: 15px;
+    padding-top: 10px;
+}
+
+#geek{
+    float: right;
+    height: 100px;
+    width: 100px;
+    margin-top: -80px;
+    margin-right: 5px;
+    padding: 1px;
+}
+
+.centro {
+	display:flex;
+    padding-top: 40px;
+}
+.centro1,
+.centro2 {
+	padding: 12px;
+}
+
+#uno{
+    background-color:white;
+    text-decoration: underline;
+    border:none;
+    
+}
+#dos{
+    background-color:white;
+    text-decoration: underline;
+    border:none;
+}
+#tres{
+    background-color:white;
+    text-decoration: underline;
+    border:none;
+}
+
+#botonfinal{
+    border-bottom: green 3px;
+    border-style: double;
+    font-family:fantasy; 
+}
+button:hover {
+    color:green;
+}
+
+#abajo{
+    text-align: center;
+}
